@@ -1,8 +1,8 @@
 # Slashash Coding Task
 slashash coding task that was assigned me by Slashash as part of the second round hiring process.
 
-# Deployment
-
+# Project Deployment
+https://slashash.vercel.app/
 
 # TechStack
 
@@ -11,7 +11,7 @@ slashash coding task that was assigned me by Slashash as part of the second roun
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
 
-## Project Screenshots
+## Project
 
 <img src="https://i.ibb.co/HKLhZHV/Screenshot-2024-02-15-144203.png"  width="600" >
 
