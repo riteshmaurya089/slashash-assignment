@@ -1,5 +1,5 @@
 # Slashash Coding Task
-This app is about the task that was assigned me by Slashash as part of the hiring process.
+slashash coding task that was assigned me by Slashash as part of the second round hiring process.
 
 # Deployment
 
