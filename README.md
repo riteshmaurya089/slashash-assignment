@@ -2,7 +2,7 @@
 slashash coding task that was assigned me by Slashash as part of the second round hiring process.
 
 # Project Deployment
-https://slashash.vercel.app/
+https://slashash-assignment.vercel.app/
 
 # TechStack
 
