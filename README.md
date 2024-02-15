@@ -2,7 +2,7 @@
 This app is about the task that was assigned me by Slashash as part of the hiring process.
 
 # Deployment
-[FrontEnd Deployed Link](https://vercel.com/aavishkark-gmailcom/slashash/FThBsVnHZo5bgytNS6xtXr7TBahJ)
+
 
 # TechStack
 
@@ -16,4 +16,4 @@ This app is about the task that was assigned me by Slashash as part of the hirin
 <img src="https://i.ibb.co/HKLhZHV/Screenshot-2024-02-15-144203.png"  width="600" >
 
 ## Contributor
-- [Avishkar kamble](https://github.com/aavishkark)
+- [Ritesh Maurya](https://github.com/riteshmaurya089)
